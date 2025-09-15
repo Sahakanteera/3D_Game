@@ -1,5 +1,9 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1757937389
+::res://::1757952222
+export_presets.cfg::TextFile::-1::1757952222::0::1::::<><><>0<>0<><>::
+index.apple-touch-icon.png::CompressedTexture2D::3943869492489731955::1757952221::1757952272::1::::<><><>0<>0<>8e5db9e5e794eed477050d105f824825<>res://.godot/imported/index.apple-touch-icon.png-8085a11cc297d91deb55511843765958.ctex::
+index.icon.png::CompressedTexture2D::30069102792706477::1757952221::1757952272::1::::<><><>0<>0<>158d6f5bb2257c2b2d3ba34032e643c6<>res://.godot/imported/index.icon.png-5665fad188e88d1e882500a4376bfe02.ctex::
+index.png::CompressedTexture2D::2094019447059683813::1757952221::1757952272::1::::<><><>0<>0<>3b528266a273a80eec1d7e5c7c7db48d<>res://.godot/imported/index.png-5122033cac747157decad52589e2295c.ctex::
 Main.gd::GDScript/GDScript::6795737105819043173::1757866778::0::1::::<>Node<><>0<>0<><>::
 Main.tscn::PackedScene::1946344858681233962::1757874085::0::1::::<><><>0<>0<><>::uid://c3252dvvstfq0::::res://Main.gd<>uid://dp478jyugrn7o::::res://Player.tscn<>uid://ha0ar5s2c3m4::::res://Mob.tscn<>uid://j65mul6yaqkv::::res://art/Floor Grass Sliced B.glb<>uid://cqquurjk1i7yw::::res://ui_theme.tres<>uid://bd113ccddifuh::::res://art/Box.glb<>uid://1qg20sl2hth1::::res://ScoreLabel.gd
 Mob.gd::GDScript/GDScript::1662423883384764077::1757866778::0::1::::<>CharacterBody3D<><>0<>0<><>::
@@ -26,6 +30,7 @@ mob_eye.tres::StandardMaterial3D/StandardMaterial3D::-1::1757866778::0::1::::<><
 player.glb::PackedScene/PackedScene::8964461739428881931::1757866778::1757866800::1::::<><><>0<>0<>888faf6ae4281eadd09c6bedcc72b9b7<>res://.godot/imported/player.glb-08dcfb373480a049995065542e37637b.scn::
 pupil.tres::StandardMaterial3D/StandardMaterial3D::-1::1757866778::0::1::::<><><>0<>0<><>::
 Water bottle.glb::PackedScene/PackedScene::3755811250893770989::1757867329::1757867333::1::::<><><>0<>0<>206d2f4c5b2ea0d77147b7046164aa15<>res://.godot/imported/Water bottle.glb-3ad84bcc01c4f806dd0618972b59f317.scn::
+::res://docx/::1757938585
 ::res://fonts/::1757866797
 LICENSE.txt::TextFile/TextFile::-1::1757866778::0::1::::<><><>0<>0<><>::
 Montserrat-Medium.ttf::FontFile/FontFile::6505293508080888906::1757866778::1757866797::1::::<><><>0<>0<>07233739ee8ed56ec1cb0f04a4ff2983<>res://.godot/imported/Montserrat-Medium.ttf-e832861e4ad4110e172112dc430c04b0.fontdata::
