@@ -1,14 +1,13 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1757874033
-icon.webp::CompressedTexture2D/CompressedTexture2D::27118964165343846::1757866778::1757866797::1::::<><><>0<>0<>2765b228073266418cb0e013965e5088<>res://.godot/imported/icon.webp-e94f9a68b0f625a567a797079e4d325f.ctex::
+::res://::1757937389
 Main.gd::GDScript/GDScript::6795737105819043173::1757866778::0::1::::<>Node<><>0<>0<><>::
-Main.tscn::PackedScene::1946344858681233962::1757872717::0::1::::<><><>0<>0<><>::uid://c3252dvvstfq0::::res://Main.gd<>uid://dp478jyugrn7o::::res://Player.tscn<>uid://ha0ar5s2c3m4::::res://Mob.tscn<>uid://j65mul6yaqkv::::res://art/Floor Grass Sliced B.glb<>uid://cqquurjk1i7yw::::res://ui_theme.tres<>uid://bd113ccddifuh::::res://art/Box.glb<>uid://1qg20sl2hth1::::res://ScoreLabel.gd
+Main.tscn::PackedScene::1946344858681233962::1757874085::0::1::::<><><>0<>0<><>::uid://c3252dvvstfq0::::res://Main.gd<>uid://dp478jyugrn7o::::res://Player.tscn<>uid://ha0ar5s2c3m4::::res://Mob.tscn<>uid://j65mul6yaqkv::::res://art/Floor Grass Sliced B.glb<>uid://cqquurjk1i7yw::::res://ui_theme.tres<>uid://bd113ccddifuh::::res://art/Box.glb<>uid://1qg20sl2hth1::::res://ScoreLabel.gd
 Mob.gd::GDScript/GDScript::1662423883384764077::1757866778::0::1::::<>CharacterBody3D<><>0<>0<><>::
-Mob.tscn::PackedScene::492840770380503333::1757872729::0::1::::<><><>0<>0<><>::uid://xxj44rvlvfgv::::res://Mob.gd<>uid://chqoahog84lvo::::res://art/Empty Box.glb
+Mob.tscn::PackedScene::492840770380503333::1757874085::0::1::::<><><>0<>0<><>::uid://xxj44rvlvfgv::::res://Mob.gd<>uid://chqoahog84lvo::::res://art/Empty Box.glb
 MusicPlayer.tscn::PackedScene/PackedScene::-1::1757866778::0::1::::<><><>0<>0<><>::res://art/House In a Forest Loop.ogg
 Player.gd::GDScript/GDScript::715746367343863431::1757866778::0::1::::<>CharacterBody3D<><>0<>0<><>::
-Player.tscn::PackedScene::8273964046187778922::1757872717::0::1::::<><><>0<>0<><>::uid://kgyidihlh768::::res://Player.gd<>uid://d0ypm0v45pwdv::::res://art/player.glb<>uid://btrlwr6x6jnkn::::res://art/Water bottle.glb
-README.md::TextFile::-1::1757873564::0::1::::<><><>0<>0<><>::
+Player.tscn::PackedScene::8273964046187778922::1757874085::0::1::::<><><>0<>0<><>::uid://kgyidihlh768::::res://Player.gd<>uid://d0ypm0v45pwdv::::res://art/player.glb<>uid://btrlwr6x6jnkn::::res://art/Water bottle.glb
+README.md::TextFile/TextFile::-1::1757873564::0::1::::<><><>0<>0<><>::
 ScoreLabel.gd::GDScript/GDScript::1858353838472230556::1757866778::0::1::::<>Label<><>0<>0<><>::
 ui_theme.tres::Theme/Theme::5930143872682747302::1757866779::0::1::::<><><>0<>0<><>::uid://cyxhh7ddkn62q::::res://fonts/Montserrat-Medium.ttf
 ::res://art/::1757872455
